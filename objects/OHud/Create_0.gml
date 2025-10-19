@@ -1,0 +1,1 @@
+global.semente = 0
